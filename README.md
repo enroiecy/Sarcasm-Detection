@@ -1,4 +1,4 @@
-# cse8803_project
+# Sarcasm Detection Model
 
 ## Graphical Model Training
 
